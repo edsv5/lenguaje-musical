@@ -1,0 +1,7 @@
+instrumento(reedorg)
+tempo(150)
+mod(durC)
+
+do t0 - do# t0.5 - re t1 - re# t1.5
+mi t2 - mi# t2.5 - fa# t3 - sol t3.5
+sol# t4 - la t4.5 - la# t5 - si t5.5 - si# t6

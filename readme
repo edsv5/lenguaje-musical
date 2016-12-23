@@ -1,0 +1,10 @@
+Para empezar rápidamente:
+
+1. Abra la consola en la carpeta "Inicio rápido".
+2. Escriba el siguiente comando:
+
+	python ProyectoAutomatas.py Pieza_de_demo
+
+3. Abra el archivo "Pieza_de_demo.mid".
+
+Nota: Si quiere escuchar de una vez los ejemplos, vaya a la carpeta "Ejemplos", ahí se encuentran los archivos MIDI con cada uno de los ejemplos

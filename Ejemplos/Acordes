@@ -1,0 +1,7 @@
+tempo(100)
+instrumento(strensemble)
+
+fa t0 db.   | mi t3 db.   | re t6 db.   | do t9 db.   | si3 t12 db. | la3 t15 db. | mi3 t18 db.   | lab3 t21 db.  | mi3 t24 db.
+la t0 db.   | sol t3 db.  | fa t6 db.   | mi t9 db.   | re t12 db.  | re t15 db.  | lab3 t18 db.  | si3 t21 db.   | sol3 t24 db.
+do5 t0 db.  | si t3 db.   | la t6 db.   | sol t9 db.  | fa t12 db.  | fa t15 db.  | do t18 db.    | re t21 db.    | do t24 db.
+mi5 t0 db.  | re5 t3 db.  | do5 t6 db.  | si t9 db.   | la t12 db.  | la t15 db.  | mi t18 db.    | fa t21 db.    | mi t24 db.

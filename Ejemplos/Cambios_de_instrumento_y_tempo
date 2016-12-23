@@ -1,0 +1,9 @@
+instrumento(epian)
+tempo(110)
+
+mod(durN)
+mod(oct4)
+|do t0 - re t1 - mi t2 - fa t3
+|sol t4 - la t5 - si t6 - do5 t7
+|do5 t8 - si t9 - la t10 - sol t11
+|fa t12 - mi t13 - re t14 - do t15

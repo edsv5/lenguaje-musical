@@ -1,0 +1,183 @@
+instrumento(mbox)
+mod(durC)
+tempo(120)
+
+|fa t0 - la t1 - la t2
+        do5 t1 - do5 t2
+|re t3 - la t4 - la t5
+        do5 t4 - do5 t5
+|mi t6 - la t7 - la t8
+        do5 t7 - do5 t8
+|do t9 - sol t10 - sol t11
+        do5 t10 - do5 t11
+        re t10 - mi t11
+
+|fa t12 - la t13 - la t14
+        do5 t13 - do5 t14
+|re t15 - la t16 - la t17
+        do5 t16 - do5 t17
+|mi t18 - la t19 - la t20
+        do5 t19 - do5 t20
+|do t21 - sol t22 - sol t23
+        do5 t22 - do5 t23
+        re t22 - mi t23
+
+|fa t24 - la t25 - la t26
+        do5 t25 - do5 t26
+|re t27 - la t28 - la t29
+        do5 t28 - do5 t29
+|mi t30 - la t31 - la t32
+        do5 t31 - do5 t32
+|do t33 - sol t34 - sol t35
+        do5 t34 - do5 t35
+        re t34 - mi t35
+
+|fa t36 - la t37 - la t38
+        do5 t37 - do5 t38
+|re t39 - la t40 - la t41
+        do5 t40 - do5 t41
+|mi t42 - la t43 - la t44
+        do5 t43 - do5 t44
+|do t45 - sol t46 - sol t47
+        do5 t46 - do5 t47
+        re t46 - mi t47
+
+  mod(oct6)
+  |do t24 db. - re t26.5 dc
+  |do t27 db. - re t29.5 dc
+  |do t30 db.
+
+  |do t36 db. - re t38.5 dc
+  |do t39 db. - mi5 t41.5
+  |do t42 db.
+
+mod(oct4)
+|re t48 - fa t49 - fa t50
+        la t49 - la t50
+|do# t51 - fa t52 - fa t53
+        la t52 - la t53
+|do t54 - fa t55 - fa t56
+        la t55 - la t56
+|si3 t57 - fa t58 - fa t59
+        la t58 - la t59
+
+  mod(oct6)
+  |fa t48 db. - mi t50.5 dc
+  |fa t51 db. - mi t53.5
+  |fa t54 dn - sol t55 dn - la t56 dn
+  |re t57 db - fa t59 dn
+
+mod(oct4)
+|sib3 t60 - fa t61 - fa t62
+          la t61 - la t62
+|re t63 - fa t64 - fa t65
+          la t64 - la t65
+|la3 t66 - do# t67 - do# t68
+          sol t67 - sol t68
+|do# t69 - mi t70 - mi t71
+          la# t70 - la# t71
+
+  mod(durN)
+  mod(oct6)
+  |sib5 t60 - re t61 - fa t62
+  |sol t63 - la t64 - fa t65
+  |sol t66 - fa t67 - mi t68
+  |re t69 - reb t70 - mi t71
+
+mod(oct4)
+mod(durC)
+|re t72 - fa t73 - fa t74
+        la t73 - la t74
+|do# t75 - fa t76 - fa t77
+        la t76 - la t77
+|do t78 - fa t79 - fa t80
+        la t79 - la t80
+|si3 t81 - fa t82 - fa t83
+        la t82 - la t83
+
+  mod(durC)
+  mod(oct6)
+  |re t72 - mi t72.5 - fa t73 - mi t73.5 - fa t74 - mi t74.5
+  |do# t75 - mi t75.5 - fa t76 - mi t76.5 - fa t77 - mi t77.5
+  |fa t78 dn - sol t79 dn - la t80 dn
+  |mi7 t81 db - re7 t83 dn
+
+mod(oct4)
+mod(durC)
+|sib3 t84 - re t85 - re t86
+          fa t85 - fa t86
+|sib3 t87 - re t88 - re t89
+          sol t88 - sol t89
+|do t90 - mi t91 - mi t92
+          sol t91 - sol t92
+|do t93 - mi t94 - mi t95
+          sib t94 - sib t95
+
+  mod(durN)
+  mod(oct6)
+  |sol t84 - la t85 - fa t86
+  |sol t87 - la t88 - do t89
+  |sib5 t90 - do t91 - re t92
+  |mi t93 - fa t94 - sol t95
+
+mod(oct4)
+mod(durC)
+|fa t96 - la t97 - la t98
+        do5 t97 - do5 t98
+|re t99 - la t100 - la t101
+        do5 t100 - do5 t101
+|mi t102 - la t103 - la t104
+        do5 t103 - do5 t104
+|do t105 - sol t106 - sol t107
+        do5 t106 - do5 t107
+        re t106 - mi t107
+
+  mod(oct6)
+  |fa t96 db. - la t98.5 dc
+  |do7 t99 db. - re7 t101.5 dc
+  |mi t102 db.
+
+mod(oct4)
+mod(durC)
+|fa t108 - la t109 - la t110
+        do5 t109 - do5 t110
+|re t111 - la t112 - la t113
+        do5 t112 - do5 t113
+|mi t114 - la t115 - la t116
+        do5 t115 - do5 t116
+|do t117 - sol t118 - sol t119
+        do5 t118 - do5 t119
+        re t118 - mi t119
+
+  mod(oct6)
+  |fa t108 db. - la t110.5 dc
+  |do7 t111 db. - re7 t113.5 dc
+  |mi t114 db.
+
+mod(oct4)
+mod(durC)
+|re t120 - fa t121 - fa t122
+        la t121 - la t122
+|do# t123 - fa t124 - fa t125
+        la t124 - la t125
+|do t126 - fa t127 - fa t128
+        la t127 - la t128
+|si3 t129 - fa t130 - fa t131
+        la t130 - la t131
+
+  mod(oct6)
+  |re t120 db. - fa t122.5 dc
+  |mi t123 db. - sol t125.5 dc
+  |fa t126 db. - la t128.5 dc
+  |sol t129 db. - do7 t131.5 dc
+
+mod(oct4)
+|sib3 t132 - re t133 - fa t134
+|sol t135 - la t136 - fa t137
+|la3 t138 - do t139 - mi t140
+|sol t141 db.
+
+  mod(oct6)
+  |sib t132 db. - sol t134.5 dc
+  |la t135 db. - fa t137.5 dc
+  |sol t138 db.
